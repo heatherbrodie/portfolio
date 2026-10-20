@@ -1,0 +1,7 @@
+# Local credentials and machine-only configuration
+.env
+.env.*
+!.env.example
+/secrets/
+/.secrets/
+.vscode/mcp.local.json
